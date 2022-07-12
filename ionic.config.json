@@ -1,0 +1,7 @@
+{
+  "name": "ionic-fingerprint-aio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
